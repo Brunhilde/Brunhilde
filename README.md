@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Brunhilde
-- 👀 I’m interested in programming, video engineering and HF
+- 👀 I’m interested in programming, video engineering and RF
 - 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate on anything that is related to video engineering
 - 📫 www.tdvideo.de
